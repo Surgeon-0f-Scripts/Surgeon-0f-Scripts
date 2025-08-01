@@ -11,22 +11,23 @@
 
 ### 🔨 Featured Projects
 
-1. NETFLIX CLONE 
--The User interface of the Home Page of Netflix fully Cloned.
+1. NETFLIX CLONE
+  
+- The User interface of the Home Page of Netflix fully Cloned.
 
-2. **Parallax Website**  
+3. **Parallax Website**  
    A responsive, multi-layer parallax scrolling demo built with pure HTML & CSS.
 
-3. **Blog & Portfolio Website**  
+4. **Blog & Portfolio Website**  
    A complete multi-page design showcasing blog layouts and a personal portfolio section.
 
-4. **Taco Shop HTML Project**  
+5. **Taco Shop HTML Project**  
    Full-page restaurant homepage replica, featuring interactions in raw html.
 
-5. **Google Forms Clone and Calorie-Counter APP **  
+6. **Google Forms Clone and Calorie-Counter APP **  
     Interacting apps with custom-styled form elements and validation in vanilla JS.
 
-6. **Music Player**  
+7. **Music Player**  
    A JavaScript audio player with playlist support, play/pause controls, and UI animations.
 
 ---
