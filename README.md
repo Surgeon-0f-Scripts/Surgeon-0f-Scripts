@@ -11,19 +11,22 @@
 
 ### 🔨 Featured Projects
 
-1. **Parallax Website**  
+1. Netflix Clone
+   A User interface of the Home Page of Netflix fully Cloned.
+
+2. **Parallax Website**  
    A responsive, multi-layer parallax scrolling demo built with pure HTML & CSS.
 
-2. **Blog & Portfolio Website**  
+3. **Blog & Portfolio Website**  
    A complete multi-page design showcasing blog layouts and a personal portfolio section.
 
-3. **Taco Shop HTML Project**  
+4. **Taco Shop HTML Project**  
    Full-page restaurant homepage replica, featuring interactions in raw html.
 
-4. **Google Forms Clone and Calorie-Counter APP **  
+5. **Google Forms Clone and Calorie-Counter APP **  
     Interacting apps with custom-styled form elements and validation in vanilla JS.
 
-5. **Music Player**  
+6. **Music Player**  
    A JavaScript audio player with playlist support, play/pause controls, and UI animations.
 
 ---
