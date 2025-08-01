@@ -12,7 +12,7 @@
 ### 🔨 Featured Projects
 
 1. NETFLIX CLONE 
-   - A User interface of the Home Page of Netflix fully Cloned.
+-The User interface of the Home Page of Netflix fully Cloned.
 
 2. **Parallax Website**  
    A responsive, multi-layer parallax scrolling demo built with pure HTML & CSS.
