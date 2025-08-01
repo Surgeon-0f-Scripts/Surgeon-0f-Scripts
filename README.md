@@ -11,7 +11,8 @@
 
 ### 🔨 Featured Projects
 
-1. Netflix Clone
+1. NETFLIX CLONE
+ 
    A User interface of the Home Page of Netflix fully Cloned.
 
 2. **Parallax Website**  
